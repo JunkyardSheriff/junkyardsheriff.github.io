@@ -14129,6 +14129,9 @@ fieldset:disabled .btn {
 .bsb-tpl-highlight.bsb-tpl-highlight-blue {
   background-image:linear-gradient(120deg,#b8e1ff,#b8e1ff)
 }
+.bsb-tpl-highlight.bsb-tpl-highlight-red {
+  background-image:linear-gradient(120deg,#811524,#811524)
+}
 .bsb-tpl-highlight.bsb-tpl-highlight-lg {
   background-position:0 90%;
   background-size:100% 40%
