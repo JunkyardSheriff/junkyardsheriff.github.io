@@ -3984,10 +3984,10 @@ fieldset:disabled .btn {
 .navbar {
   --bs-navbar-padding-x:0;
   --bs-navbar-padding-y:0.5rem;
-  --bs-navbar-color:#000000e6;
+  --bs-navbar-color:#d8e5e8;
   --bs-navbar-hover-color:rgba(var(--bs-emphasis-color-rgb),0.8);
   --bs-navbar-disabled-color:rgba(var(--bs-emphasis-color-rgb),0.3);
-  --bs-navbar-active-color:#2f3f9fe6;
+  --bs-navbar-active-color:#811524;
   --bs-navbar-brand-padding-y:0.3125rem;
   --bs-navbar-brand-margin-end:1rem;
   --bs-navbar-brand-font-size:1.25rem;
